@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_fetch_label">Mettre a jour</string>
+    <string name="current_temp_label">Temperature Actuelle</string>
+    <string name="max_temp_label">Temperature maximale</string>
+    <string name="min_temp_label">Temperature minimale</string>
+    <string name="it_will_rain">Il va peut-être pleuvoir</string>
+    <string name="a_sunny_day">Une journée ensoleillée</string>
+    <string name="connection_error">Erreur de connexion</string>
+</resources>

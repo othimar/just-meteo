@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Just Meteo</string>
+    <string name="btn_fetch_label">Fetch</string>
+    <string name="current_temp_label">Current temperature</string>
+    <string name="max_temp_label">Maximal Temperature</string>
+    <string name="min_temp_label">Minimal Temperature</string>
+    <string name="it_will_rain">It may rain</string>
+    <string name="a_sunny_day">A sunny day</string>
+
+    <string name="celcius" translatable="false">%1$s°C</string>
+    <string name="connection_error">Connection Error</string>
+
+    <!--Shared preference Key-->
+    <string name="last_update_date_key" translatable="false">LAST_UPDATE</string>
+
+    <string name="last_temp_key" translatable="false">LAST_TEMP</string>
+    <string name="last_max_temp_key" translatable="false">LAST_MAX_TEMP</string>
+    <string name="last_min_temp_key" translatable="false">_LAST_MIN_TEMP</string>
+    <string name="last_rain_key" translatable="false">LAST_RAIN</string>
+
+</resources>
